@@ -1,0 +1,30 @@
+/* Write your code here. */
+.list-item {
+  list-style: none;
+  border: 1px solid #d7dae6;
+  padding: 10px;
+  border-radius: 8px;
+  margin: 20px;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.question {
+  color: #52606d;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.answer {
+  color: #9aa5b1;
+}
